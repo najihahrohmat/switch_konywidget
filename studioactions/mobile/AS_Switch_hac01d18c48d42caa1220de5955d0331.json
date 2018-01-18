@@ -1,0 +1,24 @@
+{
+    "AS_Switch_hac01d18c48d42caa1220de5955d0331": {
+        "id": "AS_Switch_hac01d18c48d42caa1220de5955d0331",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a4d30af48dbc45bba310814fd2eced56"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__aefd2043951a40fc89b80e6fd842253e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.invokeTouchID();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

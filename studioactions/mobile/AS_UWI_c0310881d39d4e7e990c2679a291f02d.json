@@ -1,0 +1,18 @@
+{
+    "AS_UWI_c0310881d39d4e7e990c2679a291f02d": {
+        "id": "AS_UWI_c0310881d39d4e7e990c2679a291f02d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "response",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a4d30af48dbc45bba310814fd2eced56"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

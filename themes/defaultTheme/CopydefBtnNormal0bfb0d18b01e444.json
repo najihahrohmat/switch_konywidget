@@ -1,0 +1,334 @@
+{
+  "android": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "default",
+    "isForked": true
+  },
+  "background_color": "4b88f1ff",
+  "bg_type": "one",
+  "border_color": "ffffffff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "font_color": "ffffffff",
+  "font_name": "Helvetica",
+  "font_size": 150,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "iphone": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "None",
+    "isForked": true
+  },
+  "kuid": "s8b368f034b741ee9f6479346b39f613",
+  "spaan": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "spabb": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "spaip": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "spaipad": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "spawinphone8": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "Helvetica",
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "default",
+    "isForked": true
+  },
+  "wType": "Button",
+  "watchos": {
+    "font_name": "System"
+  },
+  "windows8": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "None",
+    "isForked": true
+  },
+  "winphone8": {
+    "background_color": {
+      "angle": 0,
+      "colors": [
+        "00ff55ff",
+        "0000ffff",
+        "0000ffff"
+      ],
+      "cs": [
+        0,
+        38,
+        77
+      ],
+      "gradientType": "toTop",
+      "gt": "linear"
+    },
+    "background_style": "linear",
+    "bg_type": "ms_gradient",
+    "font_name": "None",
+    "isForked": true
+  }
+}
