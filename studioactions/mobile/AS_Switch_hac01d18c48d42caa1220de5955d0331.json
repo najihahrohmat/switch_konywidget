@@ -14,11 +14,65 @@
         },
         "language": "js",
         "actions": [{
-            "id": "ADD_SNIPPET__aefd2043951a40fc89b80e6fd842253e",
-            "type": "ADD_SNIPPET",
-            "codeSnippet": "this.invokeTouchID();",
+            "id": "IF_CONDITION__ee83b66b91e94db5b358781c549c3bcd",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "this.view.switchOpt.selectedIndex",
+                "operator": "===",
+                "rightValueType": "varvalue",
+                "rightValue": "textOff",
+                "leftItemKUID": "a4d30af48dbc45bba310814fd2eced56",
+                "leftWidgetKUID": "b14722175250405b90674d9617311cad"
+            }],
             "parentId": null,
-            "callbackType": null
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "ELSE_CONDITION__fe1fab63c68e49a4a299c581729eccb7",
+            "type": "ELSE_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "INVOKE_FUNCTION___d0374aeece1c42529b0e9a6bc2d57ba8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "offSwitch",
+            "display": "offSwitch",
+            "inputparams": [],
+            "parentId": "ELSE_CONDITION__fe1fab63c68e49a4a299c581729eccb7",
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___ae4ce15f4c3f493984ac01b9a3c4834f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "authUsingTouchID",
+            "display": "authUsingTouchID",
+            "inputparams": [],
+            "parentId": "IF_CONDITION__ee83b66b91e94db5b358781c549c3bcd",
+            "callbackType": null,
+            "disabled": false,
+            "source": "module"
+        }, {
+            "id": "NAVIGATE_TO_FORM___a20ac7a88be345fdae7da5e064f78f7b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmHome",
+            "formKUID": "g6b3e7a1033545fb970089a030343828",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "IF_CONDITION__ee83b66b91e94db5b358781c549c3bcd",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "disabled": true,
+            "package": ""
         }]
     }
 }

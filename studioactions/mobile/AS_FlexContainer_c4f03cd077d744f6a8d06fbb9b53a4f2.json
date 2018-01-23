@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_c4f03cd077d744f6a8d06fbb9b53a4f2": {
+        "id": "AS_FlexContainer_c4f03cd077d744f6a8d06fbb9b53a4f2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a4d30af48dbc45bba310814fd2eced56"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c055918c515543b0bfaf2d0d4526f0dc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "authUsingTouchID",
+            "display": "authUsingTouchID",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

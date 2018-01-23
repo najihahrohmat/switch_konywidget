@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s3023ca130f84573afe733a590566778",
+    "_skin_": "s68fe71696964e1dbcb259634dcaf2c9",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -27,9 +27,9 @@
     },
     "canUpdateUI": true,
     "children": [
-        "Button0h36254a0cebe41",
-        "Switch0eb2f787317884c",
-        "Label0jbe658655a2e41"
+        "switchOpt",
+        "Label0jbe658655a2e41",
+        "FlexContainer0e9a8b319897e4c"
     ],
     "containerweight": 100,
     "controllerInfo": {

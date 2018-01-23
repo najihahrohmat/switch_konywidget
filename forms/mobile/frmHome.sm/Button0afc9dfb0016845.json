@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "48dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1cf544b80cc460481b7ae303e73cfbd",
+    "_text_": "Back to TouchID",
+    "_top_": {
+        "type": "string",
+        "value": "325dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s4b0a7a9d2f64f74a52eefa7322bf99f",
+    "id": "Button0afc9dfb0016845",
+    "ide_onClick": "AS_Button_de1e12ae17d34aaa9f553154ceddbd58",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i24605ba3b964c6393b3c67a2c324769",
+    "name": "kony.ui.Button",
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

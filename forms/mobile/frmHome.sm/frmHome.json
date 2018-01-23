@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s3023ca130f84573afe733a590566778",
+    "_skin_": "s68fe71696964e1dbcb259634dcaf2c9",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -26,20 +26,25 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "Label0e570260d440e4d",
+        "Button0afc9dfb0016845"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "Form2Controller"
+            "name": "frmHomeController"
         }
     },
+    "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
     },
+    "device": "iPhoneX",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Form2",
+    "id": "frmHome",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -57,7 +62,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "e207f990c6aa46c0886cc61d97d7f62d",
+                "kuid": "fd43e10ab9a54693bd78ea90a82068af",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -68,7 +73,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "dc78c74c490c4fd6a5c013117a6934ca",
+                        "kuid": "d866bb685a1b4fc5a97042c91a2a7a09",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -85,14 +90,18 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "da8a6f69bafa4dc9bc2a0283dfdcd339",
+    "kuid": "g6b3e7a1033545fb970089a030343828",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "iPhoneX",
+    "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
+    "shellCSS": "iOS_iPhoneX",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {
